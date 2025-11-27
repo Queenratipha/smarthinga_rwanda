@@ -17,6 +17,17 @@ export const CROP_TYPES: string[] = [
   'Tea',
   'Bananas',
   'Pyrethrum',
+  'Cereals & grains',
+  'Irish potato',
+  'Sweet potato',
+  'beans',
+  'Vegetables',
+  'Fruits',
+  'Horticultural and specialty crops',
+  'Coffee',
+  'Tea',
+  'Othercash/industrial crops',
+  'Lesscommon cereals/grains',
 ];
 
 export const SOIL_TYPES: string[] = [
